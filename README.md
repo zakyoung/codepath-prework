@@ -13,6 +13,8 @@ The following functionality is completed:
 * [*] User can **successfully add and remove items** from the todo list
 * [*] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
+Video - https://recordit.co/UjNRphHxdE
+
 ## Notes
 
 I didnt really run into many problems when building the app. I think the video was very easy to follow and explained the process in an easy to understand manor
